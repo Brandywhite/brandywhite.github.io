@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Demo for Positioning </title>
+        
+        <style>
+            #container {
+                width: 800px;
+                height: 444px;
+                margin-left:auto;
+                margin-right:auto;
+                background-color:grey;
+                position: relative;
+            }
+            #red{
+                position: absolute;
+                top:10px;
+                left:10px;
+                width: 100px;
+                height:50px;
+                background-color:rgba(255, 0, 0, 0.5);
+                z-index: 10;
+            }
+           
+            #blue {
+                background-color: rgba(0, 0, 255, 0.5);
+                position: absolute;
+                height: 200px;
+                Width: 25px;
+                top: 10px;
+                left: 10px;
+                z-index: 20;
+            }
+             #green {
+                background-color: rgba(55, 235, 130, 0.5);
+                position: absolute;
+                height: 200px;
+                Width: 25px;
+                top: 10px;
+                left: 35px;
+                z-index: 20;
+            }
+               #purple {
+                background-color: rgba(234, 14, 241, 0.5);
+                position: absolute;
+                height: 200px;
+                Width: 25px;
+                top: 10px;
+                left: 60px;
+                z-index: 10;
+            }
+              #orange {
+                background-color: rgba(224, 127, 0, 0.5);
+                position: absolute;
+                height: 200px;
+                Width: 25px;
+                top: 10px;
+                left: 85px;
+                z-index: 20;
+            }
+            #bluecircle {
+                background-color: rgb(225, 65, 65);
+                position: absolute;
+                height: 200px;
+                width: 200px;
+               border-radius: 50%;
+               top: 10;
+               left: 50%;
+                z-index: 50;
+            }
+            #trap{
+                border-bottom: 50px solid white;
+                border-left: 50px solid transparent;
+                border-right: 50px solid transparent;
+                height: 0;
+                width: 125px;
+                z-index: 100;
+                top: 50%;
+                left: 50%;
+                position: absolute;
+            }
+            #para{
+                position: absolute;
+                width: 400px;
+                height: 100px;
+                background-color: lightblue;
+                top: 200px;
+                left: 33%;
+                z-index: 110;
+                transform: skew(25deg);
+            }
+
+
+        </style>
+    </head>
+  
+    <body style="background-color: rgb(7, 128, 133);">
+
+<div id="red">&nbsp;</div>   
+    <div id="blue">&nbsp;</div>
+    <div id="green">&nbsp;</div>
+    <div id="purple">&nbsp;</div>
+    <div id="orange">&nbsp;</div>
+    <div id="bluecircle">&nbsp;</div>
+<div id="container"></div>
+<div id="trap"></div>
+<div id="para"></div>
+
+    </body>
+        
+</html>        
