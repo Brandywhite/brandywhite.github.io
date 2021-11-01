@@ -1,0 +1,315 @@
+style 
+     #thing1{
+                width:600px;
+                height: 500px;
+                top: 100px;
+                left: 100px;
+                background-color: rgb(48, 190, 107);
+                position: absolute;
+                z-index: 10;
+            }
+        
+            #thing2 {
+               width: 68px;
+                height: 222px;
+                top: 578px;
+                left: 732px;
+                background-color: rgb(164, 249, 252);
+                position: absolute;
+                z-index: 10;    
+            }
+
+            #thing3{
+                width: 260px;
+                height: 290px;
+                top: 10px;
+                left: 490px;
+                background-color: rgb(76, 181, 223);
+                position: absolute;
+                z-index: 10; 
+            }
+            
+            #thing4{
+                width: 1400px;
+                height: 221px;
+                top: 590px;
+                left: 0px;
+                background-color: rgb(89, 31, 165);
+                position: absolute;
+                z-index: 10; 
+            }
+            #thing5{
+                width: 200px;
+                height: 189px;
+                top: 498px;
+                left:108px;
+                background-color: rgba(109, 32, 145, 0.945);
+                position: absolute;
+                z-index: 10; 
+            }
+            #thing6{
+                width: 400px;
+                height: 50px;
+                top: 687px;
+                left: 300px;
+                background-color: rgba(35, 134, 134, 0.945);
+                position: absolute;
+                z-index: 10; 
+            }
+            #thing7{
+                width: 240px;
+                height: 140px;
+                top: 600px;
+                left: 495px;
+                background-color: rgb(109, 87, 209);
+                position: absolute;
+                z-index: 10; 
+            }
+            #thing8 {
+                width: 720px;
+                height: 14px;
+                top: 95px;
+                left: 40px;
+                background-color: rgba(91, 182, 88, 0.76);
+                position: absolute;
+                z-index: 10;   
+            }
+            #thing9 {
+                width: 260px;
+                height: 13px;
+                top: 290px;
+                left: 490px;
+                background-color: rgba(77, 187, 178, 0.815);
+                position: absolute;
+                z-index: 10;   
+            }
+             #thing10 {
+                width: 655px;
+                height: 14px;
+                top:0px;
+                left: 95px;
+                background-color: rgb(30, 32, 168);
+                position: absolute;
+                z-index: 10;   
+            }
+
+    #Use {
+        position: relative;
+        width: 800px;
+        height: 1200px;
+
+    }
+    #Usenext {
+        position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 800px;
+
+    }
+     #Pill {
+        position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 0px;
+
+    }
+     #Tense {
+         position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 0px;
+
+    }
+         #Tensenext {
+         position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 800px;
+
+    }
+    #Pillnext {
+        position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 800px;
+
+    }
+     #Justice {
+         position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 800px;
+
+    }
+    #Ten {
+        position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+
+    }
+     #Brain {
+        position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 0px;
+
+    }
+     #Time {
+         position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 0px;
+
+    }
+     #Flag {
+         position: relative;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 0px;
+
+    }
+    #OffSwitch {
+         position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 0px;
+
+    }
+     #Tennext {
+        position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 800px;
+
+    }
+     #Brainnext {
+        position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 800px;
+
+    }
+     #Timenext {
+         position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 800px;
+
+    }
+     #Flagnext {
+        position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 800px;
+
+    }
+    #OffSwitchnext {
+         position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 800px;
+
+    }
+    #image2{
+      position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 0px;   
+    }
+ #Fulltense {
+        position: absolute;
+        width: 800px;
+        height: 900px;
+        top: 0px;
+        left: 0px;
+
+    }
+    #Flower {
+         position: absolute;
+        width: 800px;
+        height: 900px;
+        top: 0px;
+        left: 0px;
+
+    }
+ #Fulltense2 {
+        position: absolute;
+        width: 800px;
+        height: 900px;
+        top: 0px;
+        left: 800px;
+
+    }
+    #Flower2 {
+         position: absolute;
+        width: 800px;
+        height: 900px;
+        top: 0px;
+        left: 800px;
+
+    }
+     #Change {
+        position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 0px;
+
+    }
+    #Life3 {
+         position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 0px;
+
+    }
+     #QuestionOff {
+         position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 0px;
+
+    }
+         #Changenext {
+        position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 800px;
+
+    }
+    #Life3next {
+         position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 800px;
+
+    }
+     #QuestionOffnext {
+         position: absolute;
+        width: 800px;
+        height: 1200px;
+        top: 0px;
+        left: 800px;
+
+    }
